@@ -10,7 +10,8 @@ Adultos mayores entre 60 y 65 años, que se manejan dentro de las redes sociales
 usuarios promedio → Mujeres clase alta entre 25 y 45 años que buscan comprar algo rico de un dato confiable. Por lo general se mueven mucho con el boca a boca, por lo que es así como llegaron a la página. Suelen tener varias ocaciones como cumpleaños, celebraciones, comidas donde siempre compran algo rico, tipo pastelería para sorprender a sus invitados. Sus compras son en grandes cantidades.     
 
 
-¿Qué existe que es similar a la propuesta? → __Antecedentes__ → muestre y describa 6 sitios o aplicaciones web. Se recomienda buscarlos en https://www.awwwards.com/websites/bootstrap/, https://www.instagram.com/webuistylist/ y https://www.instagram.com/web.inspirations/
+¿Qué existe que es similar a la propuesta? → __Antecedentes__ → Como antecedentes tengo 6 perfiles de Instagram, que todos tienen en común el mostrar imágenes de muy buena cálidad y que en sí el perfil de hambre. Que den ganas de comer lo que se está mostrando y que sea esto lo que incentiva a comprar. Se muestrabn los procesos de algunos productos lo que lleva al cliente a seguir mirando y querer cocinar esas recetas.  LA muestra de texturas y de paletas de colores a lo largo de los perfiles es algo que me gustaría implementar en mi página web. Que todo siga una misma línea gráfica como se muestra en los perfiles. 
+
 
 __Referentes__ → Como referentes tenemos el moodboard donde podemos ver imágenes que reflejan lo "cozy" o cómodo, como por ejemplo la chimenea o el café. Algunas fotos de cosas de pastelería como galletas o barritas de nuéz. Lo más importante es que la página web tenga una buena primer imagen, y que recalque esta sensación de lo hecho en casa y que las imágenes incentiven a comprar porque te dio hambre.
 ![Referentes.](/images/moodboard.png) 
