@@ -10,9 +10,9 @@ Adultos mayores entre 60 y 65 años, que se manejan dentro de las redes sociales
 usuarios promedio → Mujeres clase alta entre 25 y 45 años que buscan comprar algo rico de un dato confiable. Por lo general se mueven mucho con el boca a boca, por lo que es así como llegaron a la página. Suelen tener varias ocaciones como cumpleaños, celebraciones, comidas donde siempre compran algo rico, tipo pastelería para sorprender a sus invitados. Sus compras son en grandes cantidades.     
 
  __Antecedentes__ → Como antecedentes tengo 6 perfiles de Instagram, que todos tienen en común el mostrar imágenes de muy buena cálidad y que en sí el perfil de hambre. Que den ganas de comer lo que se está mostrando y que sea esto lo que incentiva a comprar. Se muestrabn los procesos de algunos productos lo que lleva al cliente a seguir mirando y querer cocinar esas recetas.  LA muestra de texturas y de paletas de colores a lo largo de los perfiles es algo que me gustaría implementar en mi página web. Que todo siga una misma línea gráfica como se muestra en los perfiles. 
- | Thaliaho | Tartine Bakery |
-| ---------------- | ---------------- |
-|  ![ThaliaHO](/images/1.PNG) [link Instagram](https://www.instagram.com/thaliaho/?hl=en)| Other content    |
+ | Thaliaho | Tartine Bakery | Tatte Bakery | Mirlo Café | Le Pain Quotidien USA | Casa Manjar |
+| ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
+|  ![ThaliaHO](/images/1.PNG) [link Instagram](https://www.instagram.com/thaliaho/?hl=en)|  ![Tartinebakery](/images/2.PNG) [link Instagram](https://www.instagram.com/tartinebakery/?hl=en)  |  ![Tattebakery](/images/3.PNG) [link Instagram](https://www.instagram.com/tattebakery/?hl=en)    |
  
 
 
