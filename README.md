@@ -12,7 +12,7 @@ usuarios promedio → Mujeres clase alta entre 25 y 45 años que buscan comprar 
  __Antecedentes__ → Como antecedentes tengo 6 perfiles de Instagram, que todos tienen en común el mostrar imágenes de muy buena cálidad y que en sí el perfil de hambre. Que den ganas de comer lo que se está mostrando y que sea esto lo que incentiva a comprar. Se muestrabn los procesos de algunos productos lo que lleva al cliente a seguir mirando y querer cocinar esas recetas.  LA muestra de texturas y de paletas de colores a lo largo de los perfiles es algo que me gustaría implementar en mi página web. Que todo siga una misma línea gráfica como se muestra en los perfiles. 
  | Thaliaho | Tartine Bakery | Tatte Bakery | Mirlo Café | Le Pain Quotidien USA | Casa Manjar |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-|  ![ThaliaHO](/images/1.PNG) [link Instagram](https://www.instagram.com/thaliaho/?hl=en)|  ![Tartinebakery](/images/2.PNG) [link Instagram](https://www.instagram.com/tartinebakery/?hl=en)  |  ![Tattebakery](/images/3.PNG) [link Instagram](https://www.instagram.com/tattebakery/?hl=en)    |
+|  ![ThaliaHO](/images/1.PNG) [link Instagram](https://www.instagram.com/thaliaho/?hl=en)|  ![Tartinebakery](/images/2.PNG) [link Instagram](https://www.instagram.com/tartinebakery/?hl=en)  |  ![Tattebakery](/images/3.PNG) [link Instagram](https://www.instagram.com/tattebakery/?hl=en)    |![Mirlocafe](/images/4.PNG) [link Instagram](https://www.instagram.com/mirlocafe/?hl=en)   |![Lepainquotidienusa](/images/5.PNG) [link Instagram](https://www.instagram.com/lepainquotidienusa/?hl=en)    |![Casamanjarmadrid](/images/6.PNG) [link Instagram](https://www.instagram.com/casamanjarmadrid/?hl=en)    |
  
 
 
