@@ -13,4 +13,4 @@ usuarios promedio → Mujeres clase alta entre 25 y 45 años que buscan comprar 
 
 
 __Referentes__ → Como referentes tenemos el moodboard donde podemos ver imágenes que reflejan lo "cozy" o cómodo, como por ejemplo la chimenea o el café. Algunas fotos de cosas de pastelería como galletas o barritas de nuéz. Lo más importante es que la página web tenga una buena primer imagen, y que recalque esta sensación de lo hecho en casa y que las imágenes incentiven a comprar porque te dio hambre.
-![Referentes.](/images/moodboard.png) 
+![Referentes.](/images/moodboard1.png) 
