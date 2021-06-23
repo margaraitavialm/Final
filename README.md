@@ -35,6 +35,7 @@ ___Aspectos negativos:___
 -Imágenes siempre desde el mismo ángulo.
 
 
+
 __2 Tartine Bakery:__
 
 ___Aspectos positivos:___
@@ -54,6 +55,7 @@ ___Aspectos negativos:___
 -Falta que muestren un poco más quién está detrás de todas esas recetas, mostrar el/la chef para dar cercanía. 
 
 
+
 __3 Tatte Bakery:__
 
 ___Aspectos positivos:___
@@ -71,6 +73,7 @@ ___Aspectos negativos:___
 -Definir alguna gráfica para los post que son de información.
 
 
+
 __4 Mirlo Café:__
 
 ___Aspectos positivos:___
@@ -86,6 +89,7 @@ ___Aspectos negativos:___
 -La gráfica no es constante.
 
 
+
 __5 La Punta:__
 
 ___Aspectos positivos:___
@@ -97,6 +101,7 @@ ___Aspectos positivos:___
 ___Aspectos negativos:___
 
 -Gráfica muy simple y no coherente con lo que se vende.
+
 
 
 __6 Carlo´s Bakery:__
