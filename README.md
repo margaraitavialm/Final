@@ -16,7 +16,7 @@ ___usuario extremos 2___ → Adultos mayores entre 60 y 65 años, que se manejan
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 |  ![ThaliaHO](/images/1.PNG) [link Instagram](https://www.instagram.com/thaliaho/?hl=en)|  ![Tartinebakery](/images/2.PNG) [link Instagram](https://www.instagram.com/tartinebakery/?hl=en)  |  ![Tattebakery](/images/3.PNG) [link Instagram](https://www.instagram.com/tattebakery/?hl=en)    |![Mirlocafe](/images/4.PNG) [link Instagram](https://www.instagram.com/mirlocafe/?hl=en)   |![LaPunta](/images/5.PNG) [Sitio web](https://comidaslapunta.cl/)    |![Carlosbakery](/images/6.PNG) [Sitio web](https://www.carlosbakery.com/)    |
  
-__1:__
+__1: Thalia Ho__
 
 ___Aspectos positivos:___ 
 
@@ -34,7 +34,8 @@ ___Aspectos negativos:___
 
 -Imágenes siempre desde el mismo ángulo.
 
-__2:__
+
+__2 Tartine Bakery:__
 
 ___Aspectos positivos:___
 
@@ -46,7 +47,6 @@ ___Aspectos positivos:___
 
 -Imágenes buenas y tomadas desde diferentes ángulos y con diferentes fondos.
 
-
 ___Aspectos negativos:___
 
 -Se mezcla las imágenes de cosas dulces con las saladas.
@@ -54,7 +54,7 @@ ___Aspectos negativos:___
 -Falta que muestren un poco más quién está detrás de todas esas recetas, mostrar el/la chef para dar cercanía. 
 
 
-__3:__
+__3 Tatte Bakery:__
 
 ___Aspectos positivos:___
 
@@ -67,20 +67,51 @@ ___Aspectos positivos:___
 -Limpieza que transmite el feed.
 
 ___Aspectos negativos:___
--
 
-__4:__
+-Definir alguna gráfica para los post que son de información.
+
+
+__4 Mirlo Café:__
+
 ___Aspectos positivos:___
--
+
+-Buen nivel de información para clientes sobre recetas, precios, horarios etc. 
+
+-Imágenes se ven apetitosas, da hambre.
+
 ___Aspectos negativos:___
 
-__5:__
+-No hay paleta de colores definida.
+
+-La gráfica no es constante.
+
+
+__5 La Punta:__
+
 ___Aspectos positivos:___
+
+-Buen display de los productos que se venden.
+
+-Buena información sobre sus productos, cúanto viene, el despacho, ingredientes, etc.
+
 ___Aspectos negativos:___
 
-__6:__
+-Gráfica muy simple y no coherente con lo que se vende.
+
+
+__6 Carlo´s Bakery:__
+
 ___Aspectos positivos:___
+
+-Gráfica y paleta decolores constante (tipografías especialmente).
+
+-Buen display de productos.
+
 ___Aspectos negativos:___
+
+-Demasiados colores.
+
+-Demasiada información gráfica.
 
 
 __Referentes__ → Como referentes tenemos el moodboard donde podemos ver imágenes que reflejan lo "cozy" o cómodo, como por ejemplo la chimenea o el café. Algunas fotos de cosas de pastelería como galletas o barritas de nuéz. Lo más importante es que la página web tenga una buena primer imagen, y que recalque esta sensación de lo hecho en casa y que las imágenes incentiven a comprar porque te dio hambre.
