@@ -22,6 +22,7 @@ ___Aspectos positivos:___
 -El cómo se muestran las texturas de los alimentos.
 -Una paleta de colores constante y neutra.
 -Buena calidad de imágenes.
+
 ___Aspectos negativos:___
 -Falta de gráfica que represente a la marca.
 -Falta de exolicaciones sobre que es cada cosa.
