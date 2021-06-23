@@ -19,31 +19,53 @@ ___usuario extremos 2___ → Adultos mayores entre 60 y 65 años, que se manejan
 __1:__
 
 ___Aspectos positivos:___ 
+
 -El cómo se muestran las texturas de los alimentos.
+
 -Una paleta de colores constante y neutra.
+
 -Buena calidad de imágenes.
 
 ___Aspectos negativos:___
+
 -Falta de gráfica que represente a la marca.
+
 -Falta de exolicaciones sobre que es cada cosa.
+
 -Imágenes siempre desde el mismo ángulo.
 
 __2:__
+
 ___Aspectos positivos:___
+
 -Buena gráfica, coherente con lo que se vende.
+
 -No hay una paleta de colores tan específica, pero si se mueven dentro de ciertos colores.
+
 -Muestra de texturas de alimentos.
+
 -Imágenes buenas y tomadas desde diferentes ángulos y con diferentes fondos.
+
+
 ___Aspectos negativos:___
+
 -Se mezcla las imágenes de cosas dulces con las saladas.
+
 -Falta que muestren un poco más quién está detrás de todas esas recetas, mostrar el/la chef para dar cercanía. 
 
+
 __3:__
+
 ___Aspectos positivos:___
+
 -Muestra de texturas en buena calidad de imágenes.
+
 -Paleta de colorescontstante y coherente.
+
 -Muestra el proceso de algunos productos y tiene recetas para que el cliente pueda hacer.
+
 -Limpieza que transmite el feed.
+
 ___Aspectos negativos:___
 -
 
