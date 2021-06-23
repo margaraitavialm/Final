@@ -17,6 +17,7 @@ ___usuario extremos 2___ → Adultos mayores entre 60 y 65 años, que se manejan
 |  ![ThaliaHO](/images/1.PNG) [link Instagram](https://www.instagram.com/thaliaho/?hl=en)|  ![Tartinebakery](/images/2.PNG) [link Instagram](https://www.instagram.com/tartinebakery/?hl=en)  |  ![Tattebakery](/images/3.PNG) [link Instagram](https://www.instagram.com/tattebakery/?hl=en)    |![Mirlocafe](/images/4.PNG) [link Instagram](https://www.instagram.com/mirlocafe/?hl=en)   |![LaPunta](/images/5.PNG) [Sitio web](https://comidaslapunta.cl/)    |![Carlosbakery](/images/6.PNG) [Sitio web](https://www.carlosbakery.com/)    |
  
 __1:__
+
 ___Aspectos positivos:___ 
 -El cómo se muestran las texturas de los alimentos.
 -Una paleta de colores constante y neutra.
