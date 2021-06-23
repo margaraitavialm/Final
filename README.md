@@ -8,27 +8,27 @@ __¿Para quiénes?__
 
 ___Usuario extremos 1___ Jóvenes entre 18 y 24 años 
 
-¿Qué piensa?: Buscan algun tipo de regalo, o que quieren darse un gusto. Conocen la página por instagram y compran en pequeñas cantidades. Suelen guiarse por la imagen de la página web o instagram de las cosas, por lo que la imagen es más importante para comprar el producto.
+_¿Qué piensa?_: Buscan algun tipo de regalo, o que quieren darse un gusto. Conocen la página por instagram y compran en pequeñas cantidades. Suelen guiarse por la imagen de la página web o instagram de las cosas, por lo que la imagen es más importante para comprar el producto.
 
-¿Qué siente?: Le gusta mucho las cosas dulces y darse un gusto de vez en cuando. 
+_¿Qué siente?_: Le gusta mucho las cosas dulces y darse un gusto de vez en cuando. 
 
-¿Qué hace?: Es estudiante, por lo que no tiene mucho tiempo para andar cocinado. Prefiere comprar cosas hechas y que le sirvan como snack mientras estudia. 
+_¿Qué hace?_: Es estudiante, por lo que no tiene mucho tiempo para andar cocinado. Prefiere comprar cosas hechas y que le sirvan como snack mientras estudia. 
 
 ___Usuarios promedio___  Mujeres clase alta entre 25 y 45 años 
 
-¿Qué piensa?: Buscan comprar algo rico de un dato confiable. Por lo general se mueven mucho con el boca a boca, por lo que es así como llegaron a la página. Para ella el dinero no es problema por lo que no le importa gastarlo en comidas, o en ocaciones especiales con sus seres queridos. 
+_¿Qué piensa?_: Buscan comprar algo rico de un dato confiable. Por lo general se mueven mucho con el boca a boca, por lo que es así como llegaron a la página. Para ella el dinero no es problema por lo que no le importa gastarlo en comidas, o en ocaciones especiales con sus seres queridos. 
 
-¿Qué siente?: Es una persona preocupada que le gusta tener cosas ricas para sorprender a sus invitados cada vez que tienen una ocasión especial en su casa. Le gusta a poyar a las pymes más que a las grandes pastelerías. Prefiere gastar su tiempo con su familia más que en estar cocinando, prefiere comprar cosas hechas. 
+_¿Qué siente?_: Es una persona preocupada que le gusta tener cosas ricas para sorprender a sus invitados cada vez que tienen una ocasión especial en su casa. Le gusta a poyar a las pymes más que a las grandes pastelerías. Prefiere gastar su tiempo con su familia más que en estar cocinando, prefiere comprar cosas hechas. 
 
-¿Qué hace?: Es una mujer que trabaja, por lo que no tiene mucho tiempo para andar cocinando o preparando cosas para sus invitados, compra todo hecho y en grandes cantidades, ya que prefiere que sobre a que falte. 
+_¿Qué hace?_: Es una mujer que trabaja, por lo que no tiene mucho tiempo para andar cocinando o preparando cosas para sus invitados, compra todo hecho y en grandes cantidades, ya que prefiere que sobre a que falte. 
 
 ___Usuario extremos 2___ Adultos mayores entre 60 y 65 años
 
-¿Qué piensa?: Son personas más tecnológicas ya que manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
+_¿Qué piensa?_: Son personas más tecnológicas ya que manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
 
-¿Qué siente?: Es una persona familiar que le gusta juntarse con su familia y siempre tenerles alguna sorpresa. Prefiere que le traigan todas las cosas a su casa para no tener que moverse por Santiago yendo a buscar las cosas. Es una persona más práctica. 
+_¿Qué siente?_: Es una persona familiar que le gusta juntarse con su familia y siempre tenerles alguna sorpresa. Prefiere que le traigan todas las cosas a su casa para no tener que moverse por Santiago yendo a buscar las cosas. Es una persona más práctica. 
 
-¿Qué hace?: Es una persona en el final de su vida laboral, trabaja pero pocas horas a la semana, por lo que tiene más tiempo. Sin embargo prefiere usar este en actividades como golf o desporte al aire libre, para salir un poco de su casa.
+_¿Qué hace?_: Es una persona en el final de su vida laboral, trabaja pero pocas horas a la semana, por lo que tiene más tiempo. Sin embargo prefiere usar este en actividades como golf o desporte al aire libre, para salir un poco de su casa.
 
 
 Adultos mayores entre 60 y 65 años, que se manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
@@ -141,5 +141,5 @@ ___Aspectos negativos:___
 -Demasiada información gráfica.
 
 
-__Referentes__ → Como referentes tenemos el moodboard donde podemos ver imágenes que reflejan lo "cozy" o cómodo, como por ejemplo la chimenea o el café. Algunas fotos de cosas de pastelería como galletas o barritas de nuéz. Lo más importante es que la página web tenga una buena primer imagen, y que recalque esta sensación de lo hecho en casa y que las imágenes incentiven a comprar porque te dio hambre.
+__Referentes__ → Como referentes tenemos el moodboard donde podemos ver imágenes que reflejan lo "cozy" o cómodo, como por ejemplo la chimenea o el café. Algunas fotos de cosas de pastelería como galletas o barritas de nuéz. Lo más importante es que la página web tenga una buena primera imagen, y que recalque esta sensación de lo hecho en casa y que las imágenes incentiven a comprar porque te dio hambre. El poder mostrar las texturas de los alimentos me parece muy importantes además del poder contar con una paleta de colores que sea constante a lo largo de la página, tanto en gráfica como en las imágenes mismas. La idea de essta es que los clientes sientan confianza en la página, que cuando la visiten no duden en la cálidad de los porductos. Que los fondos de las imágenes sean coherentes con el resto de la página, que estos también logren transmitir esta sensación de lo hogareño junto con los pasteles o productos. Una impresión limpia sin embargo no aburrida.
 ![Referentes.](/images/moodboard1.png) 
