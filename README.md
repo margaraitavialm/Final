@@ -31,7 +31,6 @@ _¿Qué siente?_: Es una persona familiar que le gusta juntarse con su familia y
 _¿Qué hace?_: Es una persona en el final de su vida laboral, trabaja pero pocas horas a la semana, por lo que tiene más tiempo. Sin embargo prefiere usar este en actividades como golf o desporte al aire libre, para salir un poco de su casa.
 
 
-Adultos mayores entre 60 y 65 años, que se manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
 
  __Antecedentes__ → Como antecedentes tengo 4 perfiles de Instagram y 2 páginas web, que todos tienen en común el mostrar imágenes de muy buena cálidad y que en sí el perfil de hambre. Que den ganas de comer lo que se está mostrando y que sea esto lo que incentiva a comprar. Se muestrabn los procesos de algunos productos lo que lleva al cliente a seguir mirando y querer cocinar esas recetas.  La muestra de texturas y de paletas de colores a lo largo de los perfiles es algo que me gustaría implementar en mi página web. Que todo siga una misma línea gráfica como se muestra en los perfiles. 
  | 1. Thaliaho | 2. Tartine Bakery | 3. Tatte Bakery | 4. Mirlo Café |5. La Punta | 6. Carlo´s Bakery |
