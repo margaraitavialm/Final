@@ -4,12 +4,34 @@ __¿Qué?__ → La Bocada es un emprendimiento de pastelería casera, que comenz
 
 __¿Para qué?__ → objetivo general → Acercar nuestros productos, recetas y servicios a los clientes de manera que puedan endulzar su vida con pastelería casera para todas las ocaciones.
 
-__¿Para quiénes?__  
-___usuario extremos 1___ → Jóvenes entre 18 y 24 años que buscan algun tipo de regalo, o que quieren darse un gusto. Conocen la página por instagram y compran en pequeñas cantidades. Suelen guiarse por la imagen de la página web o instagram de las cosas, por lo que la imagen es más importante para comprar el producto.
+__¿Para quiénes?__ 
 
-___usuarios promedio___ → Mujeres clase alta entre 25 y 45 años que buscan comprar algo rico de un dato confiable. Por lo general se mueven mucho con el boca a boca, por lo que es así como llegaron a la página. Suelen tener varias ocaciones como cumpleaños, celebraciones, comidas donde siempre compran algo rico, tipo pastelería para sorprender a sus invitados. Sus compras son en grandes cantidades.  
+___Usuario extremos 1___ Jóvenes entre 18 y 24 años 
 
-___usuario extremos 2___ → Adultos mayores entre 60 y 65 años, que se manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
+¿Qué piensa?: Buscan algun tipo de regalo, o que quieren darse un gusto. Conocen la página por instagram y compran en pequeñas cantidades. Suelen guiarse por la imagen de la página web o instagram de las cosas, por lo que la imagen es más importante para comprar el producto.
+
+¿Qué siente?: Le gusta mucho las cosas dulces y darse un gusto de vez en cuando. 
+
+¿Qué hace?: Es estudiante, por lo que no tiene mucho tiempo para andar cocinado. Prefiere comprar cosas hechas y que le sirvan como snack mientras estudia. 
+
+___Usuarios promedio___  Mujeres clase alta entre 25 y 45 años 
+
+¿Qué piensa?: Buscan comprar algo rico de un dato confiable. Por lo general se mueven mucho con el boca a boca, por lo que es así como llegaron a la página. Para ella el dinero no es problema por lo que no le importa gastarlo en comidas, o en ocaciones especiales con sus seres queridos. 
+
+¿Qué siente?: Es una persona preocupada que le gusta tener cosas ricas para sorprender a sus invitados cada vez que tienen una ocasión especial en su casa. Le gusta a poyar a las pymes más que a las grandes pastelerías. Prefiere gastar su tiempo con su familia más que en estar cocinando, prefiere comprar cosas hechas. 
+
+¿Qué hace?: Es una mujer que trabaja, por lo que no tiene mucho tiempo para andar cocinando o preparando cosas para sus invitados, compra todo hecho y en grandes cantidades, ya que prefiere que sobre a que falte. 
+
+___Usuario extremos 2___ Adultos mayores entre 60 y 65 años
+
+¿Qué piensa?: Son personas más tecnológicas ya que manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
+
+¿Qué siente?: Es una persona familiar que le gusta juntarse con su familia y siempre tenerles alguna sorpresa. Prefiere que le traigan todas las cosas a su casa para no tener que moverse por Santiago yendo a buscar las cosas. Es una persona más práctica. 
+
+¿Qué hace?: Es una persona en el final de su vida laboral, trabaja pero pocas horas a la semana, por lo que tiene más tiempo. Sin embargo prefiere usar este en actividades como golf o desporte al aire libre, para salir un poco de su casa.
+
+
+Adultos mayores entre 60 y 65 años, que se manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
 
  __Antecedentes__ → Como antecedentes tengo 4 perfiles de Instagram y 2 páginas web, que todos tienen en común el mostrar imágenes de muy buena cálidad y que en sí el perfil de hambre. Que den ganas de comer lo que se está mostrando y que sea esto lo que incentiva a comprar. Se muestrabn los procesos de algunos productos lo que lleva al cliente a seguir mirando y querer cocinar esas recetas.  La muestra de texturas y de paletas de colores a lo largo de los perfiles es algo que me gustaría implementar en mi página web. Que todo siga una misma línea gráfica como se muestra en los perfiles. 
  | 1. Thaliaho | 2. Tartine Bakery | 3. Tatte Bakery | 4. Mirlo Café |5. La Punta | 6. Carlo´s Bakery |
