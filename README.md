@@ -24,7 +24,7 @@ _¿Qué hace?_: Es una mujer que trabaja, por lo que no tiene mucho tiempo para 
 
 ___Usuario extremos 2___ Adultos mayores entre 60 y 65 años
 
-_¿Qué piensa?_: Son personas más tecnológicas ya que manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
+_¿Qué piensa?_: Son personas que conocen la tecnología y que se manejan dentro de las redes sociales. Buscan tener algo rico en la mesa para sus familias. No suelen tener Instagram por lo que la creación de una página web les resultaría más fácil de ocupar.  
 
 _¿Qué siente?_: Es una persona familiar que le gusta juntarse con su familia y siempre tenerles alguna sorpresa. Prefiere que le traigan todas las cosas a su casa para no tener que moverse por Santiago yendo a buscar las cosas. Es una persona más práctica. 
 
