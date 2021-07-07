@@ -134,21 +134,21 @@ html {
 .tm-btn-default:hover,
 .tm-btn-default:focus {
   color: white;
-  background-color: #98999A;
+  background-color: #ccdcdd;
 }
 
 .tm-btn-primary {
-  background-color: #2D99CC;
+  background-color: #3b488f;
   color: white;
 }
 
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
-  background-color: #1b6f96;
+  background-color: #3b488f;
 }
 
 .tm-btn-success {
-  background-color: #319966;
+  background-color: #3b488f;
   color: white;
 }
 
@@ -196,6 +196,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-size: 17px;
   background-color: #ccc;
+  color:  #3b488f;
   overflow-x: hidden;
 }
 
@@ -204,7 +205,7 @@ body {
 }
 
 p, address {
-  color: #626364;
+  color: #3b488f;
   line-height: 1.8;
 }
 
@@ -212,7 +213,7 @@ p, address {
 .placeholder {
   width: 100%;
   min-height: 460px;
-  background-color: #556E5B;
+  background-color: #3b488f;
 }
 
 .placeholder-2 {
@@ -397,7 +398,7 @@ p, address {
 .tm-gallery-title {
   font-size: 1.3rem;
   font-weight: 400;
-  color: #1A6692;
+  color: #3b488f;
   margin-bottom: 15px;
 }
 
@@ -407,7 +408,7 @@ p, address {
 
 .tm-gallery-price {
   font-size: 1.25rem;
-  color: #697fac;
+  color: #3b488f;
   margin-bottom: 60px;
 }
 
@@ -429,7 +430,7 @@ p, address {
   align-items: center;
   justify-content: center;
   text-decoration: none;
-  color: #2F956D;
+  color: #3b488f;
   background-color: transparent;
 }
 
@@ -480,7 +481,7 @@ p, address {
 }
 
 .tm-footer a:hover {
-  color: #1A6692;
+  color: #3b488f;
 }
 
 /* About */
@@ -531,7 +532,7 @@ p, address {
 }
 
 .tm-social-link {
-  color: #697fac;
+  color: #3b488f;
   display: inline-block;
   border-radius: 1px;
   background-color: transparent;
@@ -603,7 +604,7 @@ p, address {
 .tm-history-title {
   font-size: 1.6rem;
   font-weight: 300;
-  color: #1A6692;
+  color: #3b488f;
   margin-bottom: 30px;
 }
 
@@ -728,7 +729,7 @@ address {
 .tm-contact-icon {
   display: inline-block;
   margin-right: 25px;
-  color: ##697fac;
+  color: #697fac;
 }
 
 .tm-contact-link {
@@ -826,7 +827,7 @@ address {
 }
 
 .accordion:after {
-  font-family: 'Font Awesome 5 Free';
+  font-family: 'Raleway';
   font-weight: 900;
   animation: changeIconBack 0.3s linear;
   content: '\f0d9';
